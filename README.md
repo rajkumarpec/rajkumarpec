@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Kumar,Ph.D.</h1>
+<h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">Proactive and task-oriented professional with a passion for active learning in the fields of Data Science, Machine Learning, and Artificial Intelligence.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
